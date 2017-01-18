@@ -1,0 +1,171 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD03,"Estimate; Total: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD03,"Margin of Error; Total: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD04,Estimate; Total: - Construction
+HD02_VD04,Margin of Error; Total: - Construction
+HD01_VD05,Estimate; Total: - Manufacturing
+HD02_VD05,Margin of Error; Total: - Manufacturing
+HD01_VD06,Estimate; Total: - Wholesale trade
+HD02_VD06,Margin of Error; Total: - Wholesale trade
+HD01_VD07,Estimate; Total: - Retail trade
+HD02_VD07,Margin of Error; Total: - Retail trade
+HD01_VD08,"Estimate; Total: - Transportation and warehousing, and utilities"
+HD02_VD08,"Margin of Error; Total: - Transportation and warehousing, and utilities"
+HD01_VD09,Estimate; Total: - Information
+HD02_VD09,Margin of Error; Total: - Information
+HD01_VD10,"Estimate; Total: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD10,"Margin of Error; Total: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD11,"Estimate; Total: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD11,"Margin of Error; Total: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD12,"Estimate; Total: - Educational services, and health care and social assistance"
+HD02_VD12,"Margin of Error; Total: - Educational services, and health care and social assistance"
+HD01_VD13,"Estimate; Total: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD13,"Margin of Error; Total: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD14,"Estimate; Total: - Other services, except public administration"
+HD02_VD14,"Margin of Error; Total: - Other services, except public administration"
+HD01_VD15,Estimate; Total: - Public administration
+HD02_VD15,Margin of Error; Total: - Public administration
+HD01_VD16,"Estimate; Total: - Management, business, science, and arts occupations:"
+HD02_VD16,"Margin of Error; Total: - Management, business, science, and arts occupations:"
+HD01_VD17,"Estimate; Total: - Management, business, science, and arts occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD17,"Margin of Error; Total: - Management, business, science, and arts occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD18,"Estimate; Total: - Management, business, science, and arts occupations: - Construction"
+HD02_VD18,"Margin of Error; Total: - Management, business, science, and arts occupations: - Construction"
+HD01_VD19,"Estimate; Total: - Management, business, science, and arts occupations: - Manufacturing"
+HD02_VD19,"Margin of Error; Total: - Management, business, science, and arts occupations: - Manufacturing"
+HD01_VD20,"Estimate; Total: - Management, business, science, and arts occupations: - Wholesale trade"
+HD02_VD20,"Margin of Error; Total: - Management, business, science, and arts occupations: - Wholesale trade"
+HD01_VD21,"Estimate; Total: - Management, business, science, and arts occupations: - Retail trade"
+HD02_VD21,"Margin of Error; Total: - Management, business, science, and arts occupations: - Retail trade"
+HD01_VD22,"Estimate; Total: - Management, business, science, and arts occupations: - Transportation and warehousing, and utilities"
+HD02_VD22,"Margin of Error; Total: - Management, business, science, and arts occupations: - Transportation and warehousing, and utilities"
+HD01_VD23,"Estimate; Total: - Management, business, science, and arts occupations: - Information"
+HD02_VD23,"Margin of Error; Total: - Management, business, science, and arts occupations: - Information"
+HD01_VD24,"Estimate; Total: - Management, business, science, and arts occupations: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD24,"Margin of Error; Total: - Management, business, science, and arts occupations: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD25,"Estimate; Total: - Management, business, science, and arts occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD25,"Margin of Error; Total: - Management, business, science, and arts occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD26,"Estimate; Total: - Management, business, science, and arts occupations: - Educational services, and health care and social assistance"
+HD02_VD26,"Margin of Error; Total: - Management, business, science, and arts occupations: - Educational services, and health care and social assistance"
+HD01_VD27,"Estimate; Total: - Management, business, science, and arts occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD27,"Margin of Error; Total: - Management, business, science, and arts occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD28,"Estimate; Total: - Management, business, science, and arts occupations: - Other services, except public administration"
+HD02_VD28,"Margin of Error; Total: - Management, business, science, and arts occupations: - Other services, except public administration"
+HD01_VD29,"Estimate; Total: - Management, business, science, and arts occupations: - Public administration"
+HD02_VD29,"Margin of Error; Total: - Management, business, science, and arts occupations: - Public administration"
+HD01_VD30,Estimate; Total: - Service occupations:
+HD02_VD30,Margin of Error; Total: - Service occupations:
+HD01_VD31,"Estimate; Total: - Service occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD31,"Margin of Error; Total: - Service occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD32,Estimate; Total: - Service occupations: - Construction
+HD02_VD32,Margin of Error; Total: - Service occupations: - Construction
+HD01_VD33,Estimate; Total: - Service occupations: - Manufacturing
+HD02_VD33,Margin of Error; Total: - Service occupations: - Manufacturing
+HD01_VD34,Estimate; Total: - Service occupations: - Wholesale trade
+HD02_VD34,Margin of Error; Total: - Service occupations: - Wholesale trade
+HD01_VD35,Estimate; Total: - Service occupations: - Retail trade
+HD02_VD35,Margin of Error; Total: - Service occupations: - Retail trade
+HD01_VD36,"Estimate; Total: - Service occupations: - Transportation and warehousing, and utilities"
+HD02_VD36,"Margin of Error; Total: - Service occupations: - Transportation and warehousing, and utilities"
+HD01_VD37,Estimate; Total: - Service occupations: - Information
+HD02_VD37,Margin of Error; Total: - Service occupations: - Information
+HD01_VD38,"Estimate; Total: - Service occupations: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD38,"Margin of Error; Total: - Service occupations: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD39,"Estimate; Total: - Service occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD39,"Margin of Error; Total: - Service occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD40,"Estimate; Total: - Service occupations: - Educational services, and health care and social assistance"
+HD02_VD40,"Margin of Error; Total: - Service occupations: - Educational services, and health care and social assistance"
+HD01_VD41,"Estimate; Total: - Service occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD41,"Margin of Error; Total: - Service occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD42,"Estimate; Total: - Service occupations: - Other services, except public administration"
+HD02_VD42,"Margin of Error; Total: - Service occupations: - Other services, except public administration"
+HD01_VD43,Estimate; Total: - Service occupations: - Public administration
+HD02_VD43,Margin of Error; Total: - Service occupations: - Public administration
+HD01_VD44,Estimate; Total: - Sales and office occupations:
+HD02_VD44,Margin of Error; Total: - Sales and office occupations:
+HD01_VD45,"Estimate; Total: - Sales and office occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD45,"Margin of Error; Total: - Sales and office occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD46,Estimate; Total: - Sales and office occupations: - Construction
+HD02_VD46,Margin of Error; Total: - Sales and office occupations: - Construction
+HD01_VD47,Estimate; Total: - Sales and office occupations: - Manufacturing
+HD02_VD47,Margin of Error; Total: - Sales and office occupations: - Manufacturing
+HD01_VD48,Estimate; Total: - Sales and office occupations: - Wholesale trade
+HD02_VD48,Margin of Error; Total: - Sales and office occupations: - Wholesale trade
+HD01_VD49,Estimate; Total: - Sales and office occupations: - Retail trade
+HD02_VD49,Margin of Error; Total: - Sales and office occupations: - Retail trade
+HD01_VD50,"Estimate; Total: - Sales and office occupations: - Transportation and warehousing, and utilities"
+HD02_VD50,"Margin of Error; Total: - Sales and office occupations: - Transportation and warehousing, and utilities"
+HD01_VD51,Estimate; Total: - Sales and office occupations: - Information
+HD02_VD51,Margin of Error; Total: - Sales and office occupations: - Information
+HD01_VD52,"Estimate; Total: - Sales and office occupations: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD52,"Margin of Error; Total: - Sales and office occupations: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD53,"Estimate; Total: - Sales and office occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD53,"Margin of Error; Total: - Sales and office occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD54,"Estimate; Total: - Sales and office occupations: - Educational services, and health care and social assistance"
+HD02_VD54,"Margin of Error; Total: - Sales and office occupations: - Educational services, and health care and social assistance"
+HD01_VD55,"Estimate; Total: - Sales and office occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD55,"Margin of Error; Total: - Sales and office occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD56,"Estimate; Total: - Sales and office occupations: - Other services, except public administration"
+HD02_VD56,"Margin of Error; Total: - Sales and office occupations: - Other services, except public administration"
+HD01_VD57,Estimate; Total: - Sales and office occupations: - Public administration
+HD02_VD57,Margin of Error; Total: - Sales and office occupations: - Public administration
+HD01_VD58,"Estimate; Total: - Natural resources, construction, and maintenance occupations:"
+HD02_VD58,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations:"
+HD01_VD59,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD59,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD60,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Construction"
+HD02_VD60,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Construction"
+HD01_VD61,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Manufacturing"
+HD02_VD61,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Manufacturing"
+HD01_VD62,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Wholesale trade"
+HD02_VD62,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Wholesale trade"
+HD01_VD63,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Retail trade"
+HD02_VD63,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Retail trade"
+HD01_VD64,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Transportation and warehousing, and utilities"
+HD02_VD64,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Transportation and warehousing, and utilities"
+HD01_VD65,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Information"
+HD02_VD65,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Information"
+HD01_VD66,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD66,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD67,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD67,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD68,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Educational services, and health care and social assistance"
+HD02_VD68,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Educational services, and health care and social assistance"
+HD01_VD69,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD69,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD70,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Other services, except public administration"
+HD02_VD70,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Other services, except public administration"
+HD01_VD71,"Estimate; Total: - Natural resources, construction, and maintenance occupations: - Public administration"
+HD02_VD71,"Margin of Error; Total: - Natural resources, construction, and maintenance occupations: - Public administration"
+HD01_VD72,"Estimate; Total: - Production, transportation, and material moving occupations:"
+HD02_VD72,"Margin of Error; Total: - Production, transportation, and material moving occupations:"
+HD01_VD73,"Estimate; Total: - Production, transportation, and material moving occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD02_VD73,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Agriculture, forestry, fishing and hunting, and mining"
+HD01_VD74,"Estimate; Total: - Production, transportation, and material moving occupations: - Construction"
+HD02_VD74,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Construction"
+HD01_VD75,"Estimate; Total: - Production, transportation, and material moving occupations: - Manufacturing"
+HD02_VD75,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Manufacturing"
+HD01_VD76,"Estimate; Total: - Production, transportation, and material moving occupations: - Wholesale trade"
+HD02_VD76,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Wholesale trade"
+HD01_VD77,"Estimate; Total: - Production, transportation, and material moving occupations: - Retail trade"
+HD02_VD77,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Retail trade"
+HD01_VD78,"Estimate; Total: - Production, transportation, and material moving occupations: - Transportation and warehousing, and utilities"
+HD02_VD78,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Transportation and warehousing, and utilities"
+HD01_VD79,"Estimate; Total: - Production, transportation, and material moving occupations: - Information"
+HD02_VD79,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Information"
+HD01_VD80,"Estimate; Total: - Production, transportation, and material moving occupations: - Finance and insurance, and real estate and rental and leasing"
+HD02_VD80,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Finance and insurance, and real estate and rental and leasing"
+HD01_VD81,"Estimate; Total: - Production, transportation, and material moving occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD02_VD81,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Professional, scientific, and management, and administrative and waste management services"
+HD01_VD82,"Estimate; Total: - Production, transportation, and material moving occupations: - Educational services, and health care and social assistance"
+HD02_VD82,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Educational services, and health care and social assistance"
+HD01_VD83,"Estimate; Total: - Production, transportation, and material moving occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD02_VD83,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Arts, entertainment, and recreation, and accommodation and food services"
+HD01_VD84,"Estimate; Total: - Production, transportation, and material moving occupations: - Other services, except public administration"
+HD02_VD84,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Other services, except public administration"
+HD01_VD85,"Estimate; Total: - Production, transportation, and material moving occupations: - Public administration"
+HD02_VD85,"Margin of Error; Total: - Production, transportation, and material moving occupations: - Public administration"
