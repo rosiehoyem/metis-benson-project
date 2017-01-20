@@ -18,5 +18,5 @@ for index, row in df_input.iterrows():
 		if county_code == '81':
 			census_tracts.append('4' + tract_code)
 
-df_output = pd.DataFrame({'census_tract':census_tracts, 'count':counts})
+df_output = pd.DataFrame({'BoroCT2010':census_tracts, 'stem_women':counts})
 df_output.to_csv('stem_women.csv', index=False)
