@@ -2,6 +2,10 @@ GEO.id,Id
 GEO.id2,Id2
 GEO.display-label,Geography
 HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
 HD01_VD38,Estimate; Female:
+HD02_VD38,Margin of Error; Female:
 HD01_VD39,"Estimate; Female: - Management, business, science, and arts occupations:"
+HD02_VD39,"Margin of Error; Female: - Management, business, science, and arts occupations:"
 HD01_VD43,"Estimate; Female: - Management, business, science, and arts occupations: - Computer, engineering, and science occupations:"
+HD02_VD43,"Margin of Error; Female: - Management, business, science, and arts occupations: - Computer, engineering, and science occupations:"
